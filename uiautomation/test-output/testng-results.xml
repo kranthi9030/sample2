@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70878" started-at="2018-07-12T16:18:58Z" finished-at="2018-07-12T16:20:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70878" started-at="2018-07-12T16:18:58Z" finished-at="2018-07-12T16:20:09Z">
+      <class name="com.test.automation.uiautomation.homepage.TC_001Verfifyloginwithinvalidcredintials">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.automation.uiautomation.homepage.TC_001Verfifyloginwithinvalidcredintials@59494225]" name="setup" is-config="true" duration-ms="57961" started-at="2018-07-12T16:18:58Z" finished-at="2018-07-12T16:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verfifyloginwithinvalidcredintials()[pri:0, instance:com.test.automation.uiautomation.homepage.TC_001Verfifyloginwithinvalidcredintials@59494225]" name="verfifyloginwithinvalidcredintials" duration-ms="5290" started-at="2018-07-12T16:19:56Z" finished-at="2018-07-12T16:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfifyloginwithinvalidcredintials -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.uiautomation.homepage.TC_001Verfifyloginwithinvalidcredintials@59494225]" name="endTest" is-config="true" duration-ms="7584" started-at="2018-07-12T16:20:02Z" finished-at="2018-07-12T16:20:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.automation.uiautomation.homepage.TC_001Verfifyloginwithinvalidcredintials -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
